@@ -3,7 +3,7 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
-pyrogram==1.0.7
+https://github.com/CW4RR10R/pyrogram/archive/asyncio.zip
 requests
 tgcrypto
 sqlalchemy
