@@ -2,7 +2,7 @@ class script(object):
     START_TEXT = """Hello,
 I'm a Simple File Renamer × Robot With Permanent Thumbnail support, Made by @LuciferMorningstarRobot
 
-<b>Send me any Telegram file and choose appropriate option! </b>"""
+<b>Send me any Telegram file and choose appropriate option! </b>
 
 Use /help for more details...
 Support Group : @SupremeExploitDiscussion
