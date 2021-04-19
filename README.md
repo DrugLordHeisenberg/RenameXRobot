@@ -10,4 +10,4 @@ An Open Source Telegram Rename Bot
 * [Dan Tès](https://telegram.dog/haskell) 
 * [Yoily](https://telegram.dog/YoilyL)
 * [Anand](https://telegram.dog/Anandpskerala)
-* [LuciferMorningstarRobot](https://telegram.dog/LuciferMorningstarRobot)
+* [DoctorStrangeRobot](https://telegram.dog/DoctorStrangeRobot)
